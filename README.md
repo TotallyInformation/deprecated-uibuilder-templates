@@ -10,9 +10,13 @@ To use them, you should copy the appropriate folder to the instance root folder 
 
 The last update to these templates was in December 2024.
 
+* `esm-blank-client` - A simple ES Module template. Now superceded by the "Simple External ES Module Template".
+
 * `esm-vue3-nobuild` - A Vue v3 template that includes a Vue module but does not require a build step. Uses the ESM uib client library.
 
 * `iife-vue3-nobuild` - A Vue v3 template that includes a Vue module but does not require a build step. Uses the IIFE uib client library. Note that there is an updated version of this template [TotallyInformation/uib-template-iife-vue3-nobuild](https://github.com/TotallyInformation/uib-template-iife-vue3-nobuild) which is still maintained and accessible via the UIBUILDER template manager.
+
+* `svelte-basic` - A simple Svelte template. This is a very basic template that demonstrates how to use Svelte with UIBUILDER. Now superceded by the "External Svelte Template".
 
 * `vue2-bootstrap` - A simple template using Vue 2 and Bootstrap-Vue v2. It demonstrates the various basic features you are likely to want in a simple, dynamic, data-driven user interface that uses the help of the VueJS v2 and bootstrap-vue front-end framework libraries. It includes display of control and standard messages to/from Node-RED as well as a simple form with submission back to Node-RED.
 
