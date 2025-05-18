@@ -14,6 +14,8 @@ The last update to these templates was in December 2024.
 
 * `esm-vue3-nobuild` - A Vue v3 template that includes a Vue module but does not require a build step. Uses the ESM uib client library.
 
+* `iife-blank-client` - A simple IIFE template. Superceded by the "Extended example" template.
+
 * `iife-vue3-nobuild` - A Vue v3 template that includes a Vue module but does not require a build step. Uses the IIFE uib client library. Note that there is an updated version of this template [TotallyInformation/uib-template-iife-vue3-nobuild](https://github.com/TotallyInformation/uib-template-iife-vue3-nobuild) which is still maintained and accessible via the UIBUILDER template manager.
 
 * `svelte-basic` - A simple Svelte template. This is a very basic template that demonstrates how to use Svelte with UIBUILDER. Now superceded by the "External Svelte Template".
